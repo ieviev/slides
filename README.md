@@ -20,12 +20,12 @@
 
 ## Get started 
 
-- create a `<name>.fsx` file with the contents
+- create a `slides.fsx` file with the contents
 ```fsharp
 #r "nuget: slides, 1.0.25"
 Slides.start(Settings.Default)
 ```
-- run the script with `dotnet fsi <name>.fsx`
+- run the script with `dotnet fsi slides.fsx`
 - start editing `src/index.md` 
 - view the slides at `http://localhost:8080` or from `public/index.html`
 
