@@ -1,4 +1,4 @@
-# Instant Markdown slides for the busy man
+# Instant Markdown slides
 
 ![Nuget (with prereleases)](https://img.shields.io/nuget/vpre/slides)
 
